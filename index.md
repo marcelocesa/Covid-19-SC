@@ -1,7 +1,8 @@
+# Dados
 * [Boletim Estadual](http://www.coronavirus.sc.gov.br/boletins/)
 * [coronavirus.sc.gov.br](https://www.coronavirus.sc.gov.br/)
-* [Portal de Dados Abertos do Estado de SC](http://dados.sc.gov.br/group/covid-19)
 * [Brasil.io / SC](https://brasil.io/covid19/SC/)
+* [Portal de Dados Abertos do Estado de SC](http://dados.sc.gov.br/group/covid-19)
 # Governo
 * [Secretaria de Estado da Saúde](https://www.saude.sc.gov.br/)
 * [Associações de Municípios](https://guia.fecam.org.br/filtro?categorias%5BAssocia%C3%A7%C3%B5es+de+Munic%C3%ADpios+-+SC%5D=1)
