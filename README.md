@@ -1,5 +1,5 @@
 # Covid-19 em Santa Catarina:
-* ## [Boletim Estadual](http://www.coronavirus.sc.gov.br/boletins/)
+* [Boletim Estadual](http://www.coronavirus.sc.gov.br/boletins/)
 * [coronavirus.sc.gov.br](https://www.coronavirus.sc.gov.br/)
 ## Organizações
 * [Secretaria de Estado da Saúde](https://www.saude.sc.gov.br/)
