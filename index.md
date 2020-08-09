@@ -1,7 +1,6 @@
 # Covid-19 em Santa Catarina:
 * [Boletim Estadual](http://www.coronavirus.sc.gov.br/boletins/)
 * [coronavirus.sc.gov.br](https://www.coronavirus.sc.gov.br/)
-
 ## Governo
 * [Secretaria de Estado da Saúde](https://www.saude.sc.gov.br/)
 * [Agências de Desenvolvimento Regional](https://guia.fecam.org.br/filtro?categorias%5BAg%C3%AAncias+de+Desenvolvimento+Regional%5D=22)
@@ -12,8 +11,6 @@
 * [NSC Total: Painel do Coronavírus](https://www.nsctotal.com.br/coronavirus/mapa-de-evolucao-do-virus)
 * [G1 SC: Informações](https://g1.globo.com/sc/santa-catarina/noticia/2020/08/08/sc-registra-mais-de-104-mil-casos-confirmados-de-coronavirus-com-1419-mortes.ghtml)
 * [ND+ Memorial](https://ndmais.com.br/saude/memorial-covid-19-homenagem-as-vitimas-de-santa-catarina/)
-## Notícias Locais
-* [Google Notícias](https://news.google.com/topics/CAAqBwgKMN30lwsw_J2vAw/sections/CAQiWkNCQVNQUW9KTDIwdk1ERmpjSGw1RWdWd2RDMUNVaUlMQ0F3NkJ3b0ZiRzlqWVd3cUhBb2FDaFpNVDBOQlRGOU9SVmRUWDBWWVVFeEJUa0ZVU1U5T0lBRW9BQSoqCAAqJggKIiBDQkFTRWdvSkwyMHZNREZqY0hsNUVnVndkQzFDVWlnQVABUAE?hl=pt-BR&gl=BR&ceid=BR%3Apt-419)
 ## Twitter
 * [Governo de SC: @GovSC](https://twitter.com/GovSC)
 * [Secretaria da Saúde: @saudepublicasc](https://twitter.com/saudepublicasc)
