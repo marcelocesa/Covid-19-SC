@@ -1,6 +1,8 @@
 # Covid-19 em Santa Catarina:
 * [Boletim Estadual](http://www.coronavirus.sc.gov.br/boletins/)
 * [coronavirus.sc.gov.br](https://www.coronavirus.sc.gov.br/)
+* [Portal de Dados Abertos do Estado de SC](http://dados.sc.gov.br/group/covid-19)
+* [Brasil.io / SC](https://brasil.io/covid19/SC/)
 ## Governo
 * [Secretaria de Estado da Saúde](https://www.saude.sc.gov.br/)
 * [Agências de Desenvolvimento Regional](https://guia.fecam.org.br/filtro?categorias%5BAg%C3%AAncias+de+Desenvolvimento+Regional%5D=22)
